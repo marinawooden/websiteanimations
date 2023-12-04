@@ -1,0 +1,9 @@
+#slider {
+  height: 100px;
+  width: 100px;
+  background-color: cornflowerblue;
+}
+
+#slider:hover {
+  transform: translateX(150px);
+}
